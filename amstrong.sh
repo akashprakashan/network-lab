@@ -17,8 +17,8 @@ echo "The number $number is not an Armstrong number."
 fi
 
 #OUTPUT
-#mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x amstrong.sh
-#mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./amstrong.sh
+#mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x amstrong.sh
+#mlm@mlm-desktop:~/Desktop/NW LAB$ ./amstrong.sh
 #Enter an integer: 
 #153
 #The number 153 is an Armstrong number.
