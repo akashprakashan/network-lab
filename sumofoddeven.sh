@@ -16,8 +16,8 @@ echo "Sum of odd numbers is: $sum_odd"
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x sumofoddeven.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./sumofoddeven.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x sumofoddeven.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./sumofoddeven.sh
 
 Enter a set of numbers separated by spaces: 
 10 11 35 20
