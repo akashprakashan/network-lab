@@ -12,8 +12,8 @@ fi
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x quad.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./quad.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x quad.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./quad.sh
 Enter the coefficients of the quadratic equation (a, b, c): 
 2 4 6
 The quadratic equation has no real roots.
