@@ -22,8 +22,8 @@ fi
 
 #OUTPUT
 
-#mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x prime.sh
-#mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./prime.sh
+#mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x prime.sh
+#mlm@mlm-desktop:~/Desktop/NW LAB$ ./prime.sh
 #Enter an integer: 
 #11
 #11 is a prime number.
