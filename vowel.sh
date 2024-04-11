@@ -13,8 +13,8 @@ echo "The number of vowels in the line of text is: $vowel_count"
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x vowel.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./vowel.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x vowel.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./vowel.sh
 Enter a line of text:
 welcome
 The number of vowels in the line of text is: 3
