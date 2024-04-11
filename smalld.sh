@@ -11,8 +11,8 @@ echo "Smallest digit: $smallest"
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x smalld.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./smalld.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x smalld.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./smalld.sh
 Enter a number:
 25
 Smallest digit: 2
