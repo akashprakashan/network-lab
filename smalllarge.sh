@@ -14,8 +14,8 @@ echo "Largest number: $largest"
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x smalllarge.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./smalllarge.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x smalllarge.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./smalllarge.sh
 Smallest number: 1
 Largest number: 9
 comment
