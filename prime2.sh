@@ -18,8 +18,8 @@ done
 
 <<comment
 10 is not a prime number.
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x prime2.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./prime2.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x prime2.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./prime2.sh
 Prime numbers between 1 and 50 are:
 2
 3
