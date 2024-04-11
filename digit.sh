@@ -11,8 +11,8 @@ echo "The sum of the squares of the digits is $sum."
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x digit.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./digit.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x digit.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./digit.sh
 Enter a number: 
 24
 The sum of the squares of the digits is 20.
