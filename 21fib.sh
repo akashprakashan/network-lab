@@ -18,8 +18,8 @@ echo ""
 <<comment
 OUTPUT
 p/
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x 21fib.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./21fib.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ chmod +x 21fib.sh
+mlm@mlm-desktop:~/Desktop/NW LAB$ ./21fib.sh
 Enter the length of the Fibonacci series:
 5
 0 1 1 2 3 
