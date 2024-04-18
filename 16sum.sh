@@ -15,8 +15,8 @@ $sum"
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x 16sum.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./16sum.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ chmod +x 16sum.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ ./16sum.sh
 Sum of numbers between 50 and 100, which are divisible by 3 and not divisible by 5: 1050
 
 comment
