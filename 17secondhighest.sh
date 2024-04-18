@@ -16,7 +16,7 @@ echo "Second highest number: $second_highest"
 
 <<comment
 
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x 17secondhighest.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./17secondhighest.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ chmod +x 17secondhighest.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ ./17secondhighest.sh
 Second highest number: 8
 comment
