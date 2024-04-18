@@ -11,8 +11,8 @@ done
 echo "Factorial of $number: $factorial"
 
 <<comment
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x 20fact.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./20fact.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ chmod +x 20fact.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ ./20fact.sh
 Enter a number:
 6
 Factorial of 6: 720
