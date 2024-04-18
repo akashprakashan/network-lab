@@ -17,8 +17,8 @@ result=$(sum_of_digits $number)
 echo "Sum of digits of $number: $result"
 
 <<comment
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x 18sumofdigit.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./18sumofdigit.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ chmod +x 18sumofdigit.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ ./18sumofdigit.sh
 Enter a number:
 24
 Sum of digits of 24: 6
