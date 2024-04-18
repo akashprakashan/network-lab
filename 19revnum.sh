@@ -17,8 +17,8 @@ result=$(reverse_number $number)
 echo "Reverse of $number: $result"
 
 <<comment
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x 19revnum.sh
-mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./19revnum.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ chmod +x 19revnum.sh
+mlm@mlm-desktop:~/Desktop/Akash/NW LAB$ ./19revnum.sh
 Enter a number:
 659
 Reverse of 659: 956
